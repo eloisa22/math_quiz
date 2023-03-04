@@ -1,6 +1,7 @@
 body
 {
-	background:url("https://image.slidesdocs.com/responsive-images/background/memphis-abstract-hs-electives-education-sociology-subject-for-high-school-9th-grade-concepts-in-probability-and-statistics-geometric-powerpoint-background_44dc6cddd9__960_540.jpg"), cover;  color: #e5111b;
+	background:url("https://image.slidesdocs.com/responsive-images/background/memphis-abstract-hs-electives-education-sociology-subject-for-high-school-9th-grade-concepts-in-probability-and-statistics-geometric-powerpoint-background_44dc6cddd9__960_540.jpg"); 
+	background-size: cover; color: #e5111b;
 	font-size: 20px}
 
 	.login_div1 , .login_div2
@@ -34,11 +35,12 @@ body
 {
 background: white;
 border-radius: 10px;
-border-top: 10px solid #AA4465;
+border-top: 10px solid #4485aa;
 padding: 10px;
 float: none;
 text-align: left;
 }
 
 
-h1{ padding: 50px; font-size: 50px;}
+h2{ padding: 50px; font-size: 50px;}
+h3{font-size: 30px; font-family: 'Cinzel Decorative', cursive;color: rgb(20, 20, 164)}
