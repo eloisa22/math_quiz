@@ -1,14 +1,17 @@
 body
 {
-	background:url("https://t4.ftcdn.net/jpg/02/99/84/89/360_F_299848927_S0EwX0P6HWGigW6qZWFIBaczKMQuq5D9.jpg");  color: #e5111b;
+	background:url("https://www.edulyte.com/wp-content/uploads/2021/01/math.gif");  color: #e5111b;
+	font-size: 30px; 
+	
+    background-size: cover;
 }
 
 	.login_div1 , .login_div2
 	{
 	
-		background: rgb(18, 54, 7);
+		background: rgb(235, 161, 174);
 		padding: 10px;
-		color: rgb(124, 124, 222);
+		color: rgb(20, 20, 164);
 		float: none;
 		border-radius: 15px;
 		border-color: blanchedalmond;
@@ -41,4 +44,15 @@ text-align: left;
 }
 
 
-h1{ padding: 50px; font-size: 50px;}
+h1{ padding: 30px; font-size: 50px; font-family: 'Cinzel Decorative', cursive;}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color:rgb(197, 107, 107);
+    line-height: 3;
+    text-align: center;
+	font-size: 20px; font-family: 'Cinzel Decorative', cursive;
+ }
